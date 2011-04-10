@@ -1,4 +1,5 @@
-Some python classes for parsing Minecraft level data.
+MLTese - Minecraft Level Toolsese
+:Some python classes for parsing Minecraft level data.
 
 ** These worked with the Alpha. I haven't tested with the Beta. **
 
@@ -9,3 +10,6 @@ be required to read a whole level.
 The other two files (MinecraftGeneralUtils and MinecraftPlayerUtils)
 have some convenience methods for poking at the level data, or at least
 that was the plan. They don't do a lot right now.
+
+MLTese is public domain, I guess. If, for some reason, you use it
+please drop me a line! georgemcfly@gmail.com
