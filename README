@@ -1,1 +1,7 @@
 Some python classes for parsing Minecraft level data.
+
+** These worked with the Alpha. I haven't tested with the Beta. **
+
+ParseMinecraftAlpha is a package for reading Minecraft level files. It won't read an entire level, just one file. More programming will be required to read a whole level.
+
+The other two files (MinecraftGeneralUtils and MinecraftPlayerUtils) have some convience methods for poking at the level data, or at least that was the plan. They don't do a lot right now.
