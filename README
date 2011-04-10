@@ -7,5 +7,5 @@ It won't read an entire level, just one file. More programming will
 be required to read a whole level.
 
 The other two files (MinecraftGeneralUtils and MinecraftPlayerUtils)
-have some convience methods for poking at the level data, or at least
+have some convenience methods for poking at the level data, or at least
 that was the plan. They don't do a lot right now.
